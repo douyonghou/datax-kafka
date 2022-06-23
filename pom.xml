@@ -71,6 +71,7 @@
         <module>plugin-rdbms-util</module>
         <module>plugin-unstructured-storage-util</module>
         <module>kuduwriter</module>
+        <module>kafkareader</module>
     </modules>
 
     <dependencyManagement>
